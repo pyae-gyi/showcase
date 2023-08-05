@@ -1,4 +1,4 @@
 skill 1 - 270 physical damage
 skill 2 - 320 physical damage
 ulitmate skill - 400 physical damage
-passive - +120% physical damage
+passive - +120% physical damage, +4% spell vamp
