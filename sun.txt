@@ -1,0 +1,4 @@
+skill 1 - 200 physical damage
+skill 2 - 320 physical damage
+ulitmate skill - 700 physical damage
+passive - recover 50% HP, reduce enemy physical damage 4%

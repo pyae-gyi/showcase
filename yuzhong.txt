@@ -1,0 +1,4 @@
+skill 1 - 220 physical damage
+skill 2 - 200 base damage + 150 additional damage
+ulitmate skill - 270 base damage + 270 additional damage
+passive - 30% Movement Speed and 10% Spell Vamp, 30 (+2% Extra Physical Attack) (+target's 2% Lost HP) Physical Damage
